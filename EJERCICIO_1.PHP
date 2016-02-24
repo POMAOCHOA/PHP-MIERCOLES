@@ -1,6 +1,6 @@
 <?php 
 
-print_r(getProductos(1(2(3)));
+print_r(getProductos(1));
 
 function getproductos($id)
 {
